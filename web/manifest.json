@@ -1,0 +1,12 @@
+{
+  "name": "Между строк — книжная полка",
+  "short_name": "Полка",
+  "lang": "ru",
+  "start_url": ".",
+  "display": "browser",
+  "background_color": "#F8F7F3",
+  "theme_color": "#34594A",
+  "description": "Личная книжная полка: планы, чтение и прочитанные истории.",
+  "prefer_related_applications": false,
+  "icons": [{"src": "favicon.svg", "sizes": "any", "type": "image/svg+xml"}]
+}
